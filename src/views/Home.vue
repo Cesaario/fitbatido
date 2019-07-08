@@ -3,11 +3,11 @@
 </template>
 
 <script>
-  import HelloWorld from '../components/HelloWorld'
+  import Contador from '../components/Contador'
 
   export default {
     components: {
-      HelloWorld
+      Contador
     }
   }
 </script>
